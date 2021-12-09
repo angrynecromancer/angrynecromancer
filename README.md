@@ -7,5 +7,5 @@ My name is Rebecka!
 - 💬 Ask me about anything but programming, I don't think I can help you. 
 - 📫 How to reach me: reax1999@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am from Sweden. 
+- ⚡ Fun fact: I actually think programming is kind of of fun, but only when it works. 
 
