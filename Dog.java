@@ -46,13 +46,16 @@ public class Dog {
         }
     }
 
-    public void increaseAge(int year) {
+    /*public void increaseAge(int year) {
         int currentAge = getAge();
         age = currentAge + year;
         calculateTailLength();
+    }*/
+
+    public void increaseAge() {
+        age++;
+        calculateTailLength();
     }
-
-
 
     @Override
     public String toString() {
