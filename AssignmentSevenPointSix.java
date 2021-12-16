@@ -6,7 +6,7 @@ public class AssignmentSevenPointSix {
     //@UnderTest(id = "dogs")
     private ArrayList<Dog> dogs = new ArrayList<>();
 
-    //@UnderTest(id = "U7.6.1.1.") Egen metod för att byta plats
+    //@UnderTest(id = "U7.6.1.1") Egen metod för att byta plats
     public void swapPlaces(int i, int j){
         var x = dogs.get(i);
         var y = dogs.get(j);
@@ -14,7 +14,7 @@ public class AssignmentSevenPointSix {
         dogs.set(j, x);
     }
 
-    //@UnderTest(id = "U7.6.1.2.") Använda en metod från klass biblioteket
+    //@UnderTest(id = "U7.6.1.2") Använda en metod från klass biblioteket
     public void swap(int i, int j) {
         Collections.swap(dogs, i, j);
     }
